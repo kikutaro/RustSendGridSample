@@ -1,0 +1,2 @@
+# RustSendGridSample
+RustからSendGridを使ってメール送信するサンプルコード
